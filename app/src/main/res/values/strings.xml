@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_location">Search Location</string>
+    <string name="wind">Wind</string>
+    <string name="humditiy">Humditiy</string>
+    <string name="humdity">Humidty</string>
+    <string name="chance_of_rain">Chance of Rain</string>
+</resources>
